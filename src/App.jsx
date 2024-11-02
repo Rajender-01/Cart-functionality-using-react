@@ -1,8 +1,8 @@
 function App() {
   return (
-    <>
-      <h1>Tomorrow never Comes</h1>
-    </>
+    <div>
+      <h1 className="text-3xl font-bold underline">Tomorrow never Comes</h1>
+    </div>
   );
 }
 
